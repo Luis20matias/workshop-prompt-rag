@@ -14,6 +14,11 @@ A modular Retrieval-Augmented Generation (RAG) system for document analysis, pro
 - [License](#license)
 - [Links](#links)
 
+## Excalidraw
+- https://app.excalidraw.com/l/6Fxaq8snuYV/Ee9P8AjasG
+- https://app.excalidraw.com/l/6Fxaq8snuYV/3MvIKGIqjhy
+- https://app.excalidraw.com/l/6Fxaq8snuYV/4x8LUIR6PfZ
+
 ## Overview
 This repository provides a flexible framework for:
 - Document ingestion and processing (PDFs, JSON)
